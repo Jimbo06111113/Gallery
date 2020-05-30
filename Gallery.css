@@ -27,6 +27,7 @@ p{font-family:Raleway;
 	border-bottom: 2px solid #f1f1f1;
 	width: 30%;
 	padding-bottom: 20px;
+	color: white;
 }
 
 h3{font-family:Raleway;
@@ -37,5 +38,8 @@ h3{font-family:Raleway;
 	border-bottom: 2px solid #f1f1f1;
 	width: 30%;
 	padding-bottom: 20px;
+	color:white;
 	
 }
+
+body{background: rgb(0,0,128);}
