@@ -6,3 +6,4 @@ ANOTHER NEW LINE
 ADDED A PICTURE 
 added a picture
 added another picture
+pic
